@@ -30,13 +30,10 @@ Usage
 
 ```
 
-{{$laravelDashPackageName->scrumBoard()}}
-{{$laravelDashPackageName->wikis()}}
-{{$laravelDashPackageName->wiki()}}
-{{$laravelDashPackageName->groups()}}
-{{$laravelDashPackageName->group()}}
-{{$laravelDashPackageName->projects()}}
-{{$laravelDashPackageName->project()}}
+
+{{$laravelDashPackageName->widget()}}
+{{$laravelDashPackageName->webhook->post()}}
+
 
 ```
 
